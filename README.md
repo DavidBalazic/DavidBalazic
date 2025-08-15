@@ -34,7 +34,7 @@ I’m driven by curiosity, clean code, and solving real-world problems through d
 
 ### 🧠 Machine Learning & Data Engineering
 
-- 🚕 [Uber Ride Demand Forecasting](https://github.com/DavidBalazic/IIS_Vaje)  
+- 🚕 [Uber Ride Demand Forecasting](https://github.com/DavidBalazic/IIS_Projekt)
   → Time series forecasting project predicting hourly Uber ride demand across NYC boroughs using LSTM, MLflow, weather/trip data, and ONNX model export for production deployment.
 
 - 🧪 [ML Tasks Collection](https://github.com/DavidBalazic/MLProjects)  
