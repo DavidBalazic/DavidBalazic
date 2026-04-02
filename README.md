@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm David👋</h1>
 <p align="center">
-  🧠 Data Science & Full-Stack Developer
+  🧠 Machine Learning Engineer & Full-Stack Developer
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Software Engineer** currently completing my **Master's degree** at the **Faculty of Electrical Engineering and Computer Science (FERI)**, University of Maribor.  
+I'm a passionate **Software Engineer** currently completing my **Master's degree**.
 My main focus is on:
-- **Data Science**: from raw data to insights and machine learning models  
+- **Machine Learning**: from raw data to insights and machine learning models  
 - **Full-Stack Development**: building scalable APIs, services, web apps, and mobile apps using modern frameworks 
 
 I'm driven by curiosity, clean code, and solving real-world problems through data and software.
@@ -36,7 +36,7 @@ I'm driven by curiosity, clean code, and solving real-world problems through dat
   → Time series forecasting project predicting hourly Uber ride demand across NYC boroughs using LSTM, MLflow, weather/trip data, and ONNX model export for production deployment.
 
 - 🧪 [ML Tasks Collection](https://github.com/DavidBalazic/MLProjects)  
-  → A curated repo of solved machine learning exercises and challenges (classification, regression, nlp and time-series)
+  → A curated repo of solved machine learning exercises and challenges (classification, regression, and reinforcement learning)
 
 ---
 
