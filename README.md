@@ -7,9 +7,9 @@
 
 ## 🧑‍💻 About Me
 
-**Software Engineer** currently completing my **Master's degree**.
-Passionate about **Machine Learning** and **Full-Stack Development**
-Besides programming I also love the gym and reading books.
+**Software Engineer** currently completing my **Master's degree**.  
+Passionate about **Machine Learning** and **Full-Stack Development**.  
+Besides programming I also love the **gym** and **reading books**.
 
 ---
 
