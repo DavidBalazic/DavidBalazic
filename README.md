@@ -7,32 +7,16 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Software Engineer** currently completing my **Master's degree**.
-My main focus is on:
-- **Machine Learning**: from raw data to insights and machine learning models  
-- **Full-Stack Development**: building scalable APIs, services, web apps, and mobile apps using modern frameworks 
-
-I'm driven by curiosity, clean code, and solving real-world problems through data and software.
-
----
-
-## 🔧 Tech Stack
-
-**Languages**  
-`Python` `C#` `JavaScript/TypeScript` `Go` `Swift`
-
-**ML / Data Science**  
-`Scikit-learn` `PyTorch` `PyTorch Lightning Fabric` `Transformers` `TensorFlow` `XGBoost` `Pandas` `NumPy` `Matplotlib` `Seaborn` `MLflow` `Evidently` `Great-expectations`
-
-**Tools**  
-`Git` `Docker` `DVC`
+**Software Engineer** currently completing my **Master's degree**.
+Passionate about **Machine Learning** and **Full-Stack Development**
+Besides programming I also love the gym and reading books.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Machine Learning & Data Engineering
-- 🚕 [Uber Ride Demand Forecasting](https://github.com/DavidBalazic/IIS_Projekt)  
+- 🚕 [Uber Ride Demand Forecasting](https://github.com/DavidBalazic/uber-ride-demand-prediction)  
   → Time series forecasting project predicting hourly Uber ride demand across NYC boroughs using LSTM, MLflow, weather/trip data, and ONNX model export for production deployment.
 
 - 🧪 [ML Tasks Collection](https://github.com/DavidBalazic/MLProjects)  
