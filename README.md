@@ -19,7 +19,7 @@ Besides programming I also love the **gym** and **reading books**.
 - 🚕 [Uber Ride Demand Forecasting](https://github.com/DavidBalazic/uber-ride-demand-prediction)  
   → Time series forecasting project predicting hourly Uber ride demand across NYC boroughs using LSTM, MLflow, weather/trip data, and ONNX model export for production deployment.
 
-- 🧪 [ML Tasks Collection](https://github.com/DavidBalazic/MLProjects)  
+- 🧪 [ML Tasks Collection](https://github.com/DavidBalazic/ml-notebooks)  
   → A curated repo of solved machine learning exercises and challenges (classification, regression, and reinforcement learning)
 
 ---
