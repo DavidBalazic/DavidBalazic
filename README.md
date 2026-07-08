@@ -28,9 +28,6 @@ Besides programming I also love the **gym** and **reading books**.
 - 🧾 [SmartShopper App](https://github.com/DavidBalazic/SmartShopperApp-MVP)  
   → A distributed microservice backend system built with Go, C#, Python, and JavaScript, utilizing modern protocols like gRPC and architecture patterns such as message queues and brokers (RabbitMQ, Kafka) for seamless service communication and scalability.
 
-- 🌐 [Subshare](https://subshare.app) *(Live App)*  
-  → A project board for General Contractors that makes sharing job info with subcontractors effortless. Instead of emailing plan sets or texting lockbox codes, General Contractors send each sub a single SMS magic link that instantly opens the latest plans, offering version control and job details in their browser — no login or app required, with offline support for on-site use.
-
 ---
 
 ### 📱 Mobile Development
