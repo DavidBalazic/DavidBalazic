@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm David👋</h1>
 <p align="center">
-  🧠 Machine Learning Engineer & Full-Stack Developer
+  🧠 Data Engineer & Full-Stack Developer
 </p>
 
 ---
